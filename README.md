@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Assaf
 - 👀 I’m interested in Ui/Ux Design and Frontend Development.
-- 🌱 I’m currently learning React.js framework.
+- 🌱 I’m currently learning Vue.js framework.
 - 💞️ I'm looking forward to cooperate in web design and development.
 - 📫 How to reach me  email: deanphotoshop2016@gmail.com  mobile: 01017860853
 
